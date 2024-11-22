@@ -22,8 +22,11 @@ const juanPablo = {
   <a href="https://github.com/JuanPabloFloresDiaz">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanPabloFloresDiaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanPabloFloresDiaz&layout=compact&langs_count=8&theme=algolia"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanPabloFloresDiaz&theme=algolia"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanPabloFloresDiaz&theme=algolia"/></a> </p>
   </a>
+  
+## 🏆 Trofeos de Github
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuanPabloFloresDiaz&theme=algolia&column=7" alt="JuanPabloFloresDiaz" />
 </div>
 
 ## 💝 Habilidades técnicas
