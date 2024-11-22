@@ -17,14 +17,19 @@ const juanPablo = {
 ```
 <div align="center">
   
-## 📊 Mis lenguajes más usados
+## 📊 Mis estadísticas de Github
   <br/>
-  <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloFloresDiaz&layout=compact&theme=radical&title_color=FFFFFF&text_color=FFFFFF&bg_color=20,0063ba,1700ba"/>
+  <a href="https://github.com/JuanPabloFloresDiaz">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanPabloFloresDiaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanPabloFloresDiaz&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanPabloFloresDiaz&theme=algolia"/>
+  </a>
 </div>
 
 ## 💝 Habilidades técnicas
 
 <div align="center">
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 | Frontend                     | Backend                         | Herramientas                  |
 |------------------------------|---------------------------------|--------------------------------|
@@ -65,7 +70,11 @@ const juanPablo = {
 </div>
 
 ---
-<div align="center">
+<div align="center">  
+<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+</div>
+
+<div align="center">  
   
 ### ✨ Gracias por visitar mi perfil ✨
 </div>
