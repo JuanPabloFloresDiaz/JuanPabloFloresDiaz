@@ -21,7 +21,7 @@ const juanPablo = {
   <br/>
   <a href="https://github.com/JuanPabloFloresDiaz">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanPabloFloresDiaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanPabloFloresDiaz&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanPabloFloresDiaz&layout=compact&langs_count=100&theme=algolia"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanPabloFloresDiaz&theme=algolia"/></a> </p>
   </a>
   
