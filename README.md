@@ -25,8 +25,12 @@ const juanPablo = {
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanPabloFloresDiaz&theme=algolia"/></a> </p>
   </a>
   
-## 🏆 Trofeos de Github
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuanPabloFloresDiaz&theme=algolia&column=7" alt="JuanPabloFloresDiaz" />
+
+## Commits
+<div align = "center">
+
+<img src="https://ghchart.rshah.org/Itsbeenalongday/JuanPabloFloresDiaz" alt="Itsbeenalongday's Github chart" />
+
 </div>
 
 
