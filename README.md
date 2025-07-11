@@ -80,7 +80,10 @@ const juanPablo = {
 ## 📚 Educación
 
 > ### Instituto Técnico Ricaldone
-> 📚 Técnico en Desarrollo de Software (2022-2024)
+> 📚 Bachillerato técnico en Desarrollo de Software (2022-2024)
+
+> ### Universidad Francisco Gavidia
+> 📚 Ingenieria en Diseño y Desarrollo de Software (2025-Actualidad)  
 
 ## 📩 Contacto
 
