@@ -91,7 +91,7 @@ const juanPablo = {
 > ### Desarrollador de Software @ Instituto Técnico Ricaldone
 > 🗓️ Enero 2025 – Actualidad
 > - Responsable del mantenimiento, optimización y desarrollo de sistemas internos de la institución, incluyendo resolución de *bugs* y atención a nuevas solicitudes.
-> - **Tecnologías clave:** **Laravel** (8, 9, 10), **PHP** (7.4, 8.3), **Node.js** (Gallium/16, Iron/20) con **Sequelize**, **Vue.js** (2, 3), **Astro**, **Tanstack Query**, **Axios**, **Vuetify**, **Vuelidate**, **Tailwind CSS**, **Zod**, **SweetAlert**, **Pinia**, **Day.js**.
+> - **Tecnologías clave:** **MySQL**, **MariaDB**, **PostgreSQL**, **Laravel** (8, 9, 10), **PHP** (7.4, 8.3), **Node.js** (Gallium/16, Iron/20) con **Sequelize**, **Vue.js** (2, 3), **Astro**, **Tanstack Query**, **Axios**, **Vuetify**, **Vuelidate**, **Tailwind CSS**, **Zod**, **SweetAlert**, **Pinia**, **Day.js**.
 > - **Logros Destacados:**
 >     - **Optimicé** la sección de pagos del sistema de la Escuela de Idiomas, **reduciendo el tiempo de carga de casi 2 minutos a solo 2 segundos** mediante la implementación de paginación con `LengthAwarePaginator` en Laravel, manejando más de 10,000 registros.
 >     - Participé activamente en el **desarrollo del nuevo sistema de planilla** del instituto.
